@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="icons">
+        <item>@drawable/login</item>
+        <item>@drawable/form</item>
+        <item>@drawable/pdfs</item>
+        <item>@drawable/myaccount</item>
+        <item>@drawable/usermanual</item>
+    </array>
+    <array name="colors">
+        <item>@android:color/holo_blue_light</item>
+        <item>@android:color/holo_green_dark</item>
+        <item>@android:color/holo_red_light</item>
+        <item>@android:color/holo_purple</item>
+        <item>@android:color/holo_orange_light</item>
+        <item>@android:color/darker_gray</item>
+    </array>
+</resources>
